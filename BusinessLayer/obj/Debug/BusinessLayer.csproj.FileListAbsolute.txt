@@ -1,0 +1,51 @@
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\bin\Debug\DataLayer.dll
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\bin\Debug\Entities.dll
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\bin\Debug\Entities.pdb
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\AIUB\Project\C# Projects\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+G:\Project\PosSystem\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+G:\Project\PosSystem\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+G:\Project\PosSystem\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+G:\Project\PosSystem\PosSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+G:\Project\PosSystem\PosSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+G:\Project\PosSystem\PosSystem\BusinessLayer\bin\Debug\DataLayer.dll
+G:\Project\PosSystem\PosSystem\BusinessLayer\bin\Debug\Entities.dll
+G:\Project\PosSystem\PosSystem\BusinessLayer\bin\Debug\DataLayer.pdb
+G:\Project\PosSystem\PosSystem\BusinessLayer\bin\Debug\Entities.pdb
+G:\Project\PosSystem\PosSystem\BusinessLayer\bin\Debug\Framework.dll
+G:\Project\PosSystem\PosSystem\BusinessLayer\bin\Debug\Framework.pdb
+E:\AIUB\Project\PosSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\AIUB\Project\PosSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\AIUB\Project\PosSystem\BusinessLayer\bin\Debug\DataLayer.dll
+E:\AIUB\Project\PosSystem\BusinessLayer\bin\Debug\Entities.dll
+E:\AIUB\Project\PosSystem\BusinessLayer\bin\Debug\Framework.dll
+E:\AIUB\Project\PosSystem\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\AIUB\Project\PosSystem\BusinessLayer\bin\Debug\Entities.pdb
+E:\AIUB\Project\PosSystem\BusinessLayer\bin\Debug\Framework.pdb
+E:\AIUB\Project\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\AIUB\Project\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\AIUB\Project\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\bin\Debug\Framework.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\bin\Debug\Framework.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb

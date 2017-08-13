@@ -1,0 +1,38 @@
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\DataLayer\obj\Debug\DataLayer.pdb
+E:\AIUB\Project\C# Projects\PosSystem\DataLayer\bin\Debug\DataLayer.dll.config
+E:\AIUB\Project\C# Projects\PosSystem\DataLayer\bin\Debug\DataLayer.dll
+E:\AIUB\Project\C# Projects\PosSystem\DataLayer\bin\Debug\DataLayer.pdb
+E:\AIUB\Project\C# Projects\PosSystem\DataLayer\obj\Debug\DataLayer.dll
+E:\AIUB\Project\C# Projects\PosSystem\DataLayer\obj\Debug\DataLayer.pdb
+G:\Project\PosSystem\PosSystem\DataLayer\bin\Debug\DataLayer.dll
+G:\Project\PosSystem\PosSystem\DataLayer\bin\Debug\DataLayer.pdb
+G:\Project\PosSystem\PosSystem\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+G:\Project\PosSystem\PosSystem\DataLayer\obj\Debug\DataLayer.dll
+G:\Project\PosSystem\PosSystem\DataLayer\obj\Debug\DataLayer.pdb
+G:\Project\PosSystem\PosSystem\DataLayer\bin\Debug\Entities.dll
+G:\Project\PosSystem\PosSystem\DataLayer\bin\Debug\Framework.dll
+G:\Project\PosSystem\PosSystem\DataLayer\bin\Debug\Entities.pdb
+G:\Project\PosSystem\PosSystem\DataLayer\bin\Debug\Framework.pdb
+E:\AIUB\Project\PosSystem\DataLayer\bin\Debug\DataLayer.dll
+E:\AIUB\Project\PosSystem\DataLayer\bin\Debug\DataLayer.pdb
+E:\AIUB\Project\PosSystem\DataLayer\bin\Debug\Entities.dll
+E:\AIUB\Project\PosSystem\DataLayer\bin\Debug\Framework.dll
+E:\AIUB\Project\PosSystem\DataLayer\bin\Debug\Entities.pdb
+E:\AIUB\Project\PosSystem\DataLayer\bin\Debug\Framework.pdb
+E:\AIUB\Project\PosSystem\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\AIUB\Project\PosSystem\DataLayer\obj\Debug\DataLayer.dll
+E:\AIUB\Project\PosSystem\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\bin\Debug\Entities.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\bin\Debug\Framework.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\bin\Debug\Entities.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\bin\Debug\Framework.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\DataLayer\obj\Debug\DataLayer.pdb

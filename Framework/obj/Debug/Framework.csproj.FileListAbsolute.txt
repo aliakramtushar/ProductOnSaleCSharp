@@ -1,0 +1,15 @@
+G:\Project\PosSystem\PosSystem\Framework\bin\Debug\Framework.dll
+G:\Project\PosSystem\PosSystem\Framework\bin\Debug\Framework.pdb
+G:\Project\PosSystem\PosSystem\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+G:\Project\PosSystem\PosSystem\Framework\obj\Debug\Framework.dll
+G:\Project\PosSystem\PosSystem\Framework\obj\Debug\Framework.pdb
+E:\AIUB\Project\PosSystem\Framework\bin\Debug\Framework.dll
+E:\AIUB\Project\PosSystem\Framework\bin\Debug\Framework.pdb
+E:\AIUB\Project\PosSystem\Framework\obj\Debug\Framework.dll
+E:\AIUB\Project\PosSystem\Framework\obj\Debug\Framework.pdb
+E:\AIUB\Project\PosSystem\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Users\obaid\Pictures\PosSystem\PosSystem\Framework\bin\Debug\Framework.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\Framework\bin\Debug\Framework.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Users\obaid\Pictures\PosSystem\PosSystem\Framework\obj\Debug\Framework.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\Framework\obj\Debug\Framework.pdb

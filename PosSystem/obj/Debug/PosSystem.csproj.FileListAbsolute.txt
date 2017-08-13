@@ -1,0 +1,45 @@
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\PosSystem.exe
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\PosSystem.pdb
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\UILayer.dll
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\Entities.dll
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\BusinessLayer.dll
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\DataLayer.dll
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\Framework.dll
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\UILayer.pdb
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\Entities.pdb
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\BusinessLayer.pdb
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\DataLayer.pdb
+E:\AIUB\Project\PosSystem\PosSystem\bin\Debug\Framework.pdb
+E:\AIUB\Project\PosSystem\PosSystem\obj\Debug\PosSystem.csprojResolveAssemblyReference.cache
+E:\AIUB\Project\PosSystem\PosSystem\obj\Debug\PosSystem.Properties.Resources.resources
+E:\AIUB\Project\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.GenerateResource.Cache
+E:\AIUB\Project\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+E:\AIUB\Project\PosSystem\PosSystem\obj\Debug\PosSystem.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\PosSystem.exe
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\PosSystem.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\UILayer.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\BusinessLayer.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\Entities.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\DataLayer.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\Framework.dll
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\UILayer.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\Entities.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\DataLayer.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\bin\Debug\Framework.pdb
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.csprojResolveAssemblyReference.cache
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.Properties.Resources.resources
+C:\Users\obaid\Pictures\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.GenerateResource.Cache
+D:\PosSystem\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+D:\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+D:\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.pdb
+C:\Users\negative\Google Drive\AIUB\Projects\PosSystem\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+C:\Users\negative\Google Drive\AIUB\Projects\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+C:\Users\negative\Google Drive\AIUB\Projects\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.pdb
+C:\Users\stive\Google Drive\AIUB\Projects\PosSystem\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+C:\Users\stive\Google Drive\AIUB\Projects\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+C:\Users\stive\Google Drive\AIUB\Projects\PosSystem\PosSystem\PosSystem\obj\Debug\PosSystem.pdb

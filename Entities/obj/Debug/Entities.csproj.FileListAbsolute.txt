@@ -1,0 +1,19 @@
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\Entities\bin\Debug\Entities.dll
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\Entities\bin\Debug\Entities.pdb
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\Entities\obj\Debug\Entities.dll
+C:\Users\SultanAl\documents\visual studio 2013\Projects\point of sale\Entities\obj\Debug\Entities.pdb
+E:\AIUB\Project\C# Projects\PosSystem\Entities\bin\Debug\Entities.dll
+E:\AIUB\Project\C# Projects\PosSystem\Entities\bin\Debug\Entities.pdb
+E:\AIUB\Project\C# Projects\PosSystem\Entities\obj\Debug\Entities.dll
+E:\AIUB\Project\C# Projects\PosSystem\Entities\obj\Debug\Entities.pdb
+G:\Project\PosSystem\PosSystem\Entities\bin\Debug\Entities.dll
+G:\Project\PosSystem\PosSystem\Entities\bin\Debug\Entities.pdb
+G:\Project\PosSystem\PosSystem\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+G:\Project\PosSystem\PosSystem\Entities\obj\Debug\Entities.dll
+G:\Project\PosSystem\PosSystem\Entities\obj\Debug\Entities.pdb
+E:\AIUB\Project\PosSystem\Entities\bin\Debug\Entities.dll
+E:\AIUB\Project\PosSystem\Entities\bin\Debug\Entities.pdb
+E:\AIUB\Project\PosSystem\Entities\obj\Debug\Entities.dll
+E:\AIUB\Project\PosSystem\Entities\obj\Debug\Entities.pdb
+E:\AIUB\Project\PosSystem\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
